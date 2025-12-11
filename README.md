@@ -1,2 +1,7 @@
-# Imessager
-A app which shows peoples messages, emojis, and replyes to my messages for blocking instagram reels addiction
+# tenzom
+
+---
+
+## what is it?
+  A app to create anything with ai kind like (lovable, bolt, emergent) but not only for apps but everything that needs coding (like cli tools, windows mac and andorid ios apps, and any kind of tools.
+## 
